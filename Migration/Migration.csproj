@@ -1,0 +1,22 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <None Remove="Scripts\0001_CreateMplusSchema.sql" />
+    <None Remove="Scripts\0002_CreateCalendar.sql" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <EmbeddedResource Include="Scripts\0001_CreateMplusSchema.sql" />
+    <EmbeddedResource Include="Scripts\0002_CreateCalendar.sql" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="dbup" Version="4.4.0" />
+  </ItemGroup>
+
+</Project>

@@ -1,7 +1,4 @@
 D:\Projects\MPlus\Migration\bin\Debug\netcoreapp3.1\Migration.exe
-D:\Projects\MPlus\Migration\obj\Debug\netcoreapp3.1\Migration.csprojAssemblyReference.cache
-D:\Projects\MPlus\Migration\obj\Debug\netcoreapp3.1\Migration.AssemblyInfoInputs.cache
-D:\Projects\MPlus\Migration\obj\Debug\netcoreapp3.1\Migration.AssemblyInfo.cs
 D:\Projects\MPlus\Migration\bin\Debug\netcoreapp3.1\Migration.deps.json
 D:\Projects\MPlus\Migration\bin\Debug\netcoreapp3.1\Migration.runtimeconfig.json
 D:\Projects\MPlus\Migration\bin\Debug\netcoreapp3.1\Migration.runtimeconfig.dev.json
@@ -17,6 +14,9 @@ D:\Projects\MPlus\Migration\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.
 D:\Projects\MPlus\Migration\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
 D:\Projects\MPlus\Migration\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
 D:\Projects\MPlus\Migration\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\Projects\MPlus\Migration\obj\Debug\netcoreapp3.1\Migration.csprojAssemblyReference.cache
+D:\Projects\MPlus\Migration\obj\Debug\netcoreapp3.1\Migration.AssemblyInfoInputs.cache
+D:\Projects\MPlus\Migration\obj\Debug\netcoreapp3.1\Migration.AssemblyInfo.cs
 D:\Projects\MPlus\Migration\obj\Debug\netcoreapp3.1\Migration.csproj.CoreCompileInputs.cache
 D:\Projects\MPlus\Migration\obj\Debug\netcoreapp3.1\Migration.csproj.CopyComplete
 D:\Projects\MPlus\Migration\obj\Debug\netcoreapp3.1\Migration.dll
